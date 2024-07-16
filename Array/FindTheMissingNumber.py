@@ -10,3 +10,4 @@ if __name__ == '__main__':
     obj = Solution()
     arr = [1, 2, 4, 6, 3, 7, 8]
     print('Missing Number is : ', obj.findMissingNum(arr))
+    max(arr)
